@@ -3,7 +3,7 @@
 ## Overview
 
 A Machine Learning-based Book Recommendation System that recommends books based on user interests using multiple recommendation techniques. The project uses the **Book-Crossing Dataset** and implements both traditional and hybrid recommendation approaches.
-Data used for this project was taken from <a href=http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+Data used for this project was taken from - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 ## Features
 
 * Popularity-Based Recommendation
